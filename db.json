@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Ficus",
+      "image": "https://cdn.shopify.com/s/files/1/0150/6262/products/the-sill_ficus-audrey_medium_grant_black_360x.jpg?v=1634660416",
+      "price": "28",
+      "id": 8
+    },
+    {
+      "name": "Fern",
+      "image": "https://cdn.shopify.com/s/files/1/0150/6262/products/the-sill_birds-nest-fern_variant_small_acadia_white_360x.jpg?v=1633967594",
+      "price": "18.74",
+      "id": 9
     }
   ]
 }

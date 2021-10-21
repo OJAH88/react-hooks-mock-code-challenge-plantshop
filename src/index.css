@@ -24,8 +24,8 @@ button {
 }
 
 button.primary {
-  background-color: var(--green);
-  color: white;
+  background-color:rgba(181, 250, 181, 0.5);
+  color: rgb(0, 0, 0);
 }
 
 .app {
